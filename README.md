@@ -31,8 +31,9 @@ I took inspiration from it and made **my schematic** on KiCad :
 ## PCB
 
 <img width="611" height="667" alt="Capture d&#39;écran 2026-04-16 223254" src="https://github.com/user-attachments/assets/551ddfc6-42dc-4d55-915e-4d32806ed0e6" />
-<img width="634" height="801" alt="image" src="https://github.com/user-attachments/assets/89e7096e-645f-4b43-b2e2-fd16c4cf1e40" />
+<img width="634" height="801" alt="image" src="https://github.com/user-attachments/assets/89e7096e-645f-4b43-b2e2-fd16c4cf1e40" />  
 
+> The traces are like that on purpose to free the space in the middle !
 
 ## ASSEMBLY
 
