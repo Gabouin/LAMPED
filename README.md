@@ -1,5 +1,9 @@
 # LAMPED - A SIMPLE LIGHT CONTROL MECHANISM
 
+<img width="889" height="453" alt="image" src="https://github.com/user-attachments/assets/65f81e23-b928-4d65-88c3-824c8dd67663" />
+<br>
+<br>
+
 This project was made for _RESOLUTION - WEEK 4_ and is basically 10 LEDs that shine in order (regulated by an LM3914) thanks to a potentiometer. 
 <br>  
 It's a visual experience designed to look like a small lamp, using the logic of the LM3914 driver to control an array of LEDs via a potentiometer. It’s perfect for a desk ornament, offering a fun, interactive lighting effect.
