@@ -54,3 +54,7 @@ Connect the LAMPED board to a 5V USB power source (computer port or adapter).
 
 Turn the small potentiometer to see the LEDs light up sequentially, increasing or decreasing the overall brightness.
 
+## BOM  
+
+<img width="843" height="349" alt="image" src="https://github.com/user-attachments/assets/99dd9157-e6fd-462e-817b-b13deed71f12" />
+
